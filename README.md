@@ -1,18 +1,19 @@
-## Getting Started
+## Java Iphone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Modelagem simples de classes e interfaces simulando as funcionalidades de um Iphone.
 
-## Folder Structure
+## Estrutura de Pastas
 
-The workspace contains two folders by default, where:
+Este projeto foi criado utilizando o template de projeto Java do VSCode. A estrutura de pastas é a seguinte:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: pasta que mantém o código fonte do projeto
+- `lib`: pasta que mantém as bibliotecas utilizadas no projeto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Sendo que a pasta `src` possui a seguinte estrutura:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- `contract`: pasta que mantém as interfaces do projeto
+- `model`: pasta que mantém as classes do projeto
 
-## Dependency Management
+## Diagrama de Classes
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Iphone](./iphone.jpg)
