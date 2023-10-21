@@ -16,4 +16,4 @@ Sendo que a pasta `src` possui a seguinte estrutura:
 
 ## Diagrama de Classes
 
-![Iphone](./iphone.jpg)
+![Iphone](https://github.com/tiagovillalobos/iphone-java/blob/main/iphone.png?raw=true)
